@@ -1,7 +1,10 @@
 # inouem.github.io
-##Foo
-###foo
-###foo
-##BAR
-###bar
-###bar
+## Foo
+### foo
+### foo
+## BAR
+### bar
+### bar
+## BAZ
+### baz
+### baz
